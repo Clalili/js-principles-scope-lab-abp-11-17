@@ -20,3 +20,4 @@ function changeLeastFavoriteCustomer(){
 };
 
 let favoriteCustomer = 'Julie';
+let favoriteCustomer = 'Pavs';
