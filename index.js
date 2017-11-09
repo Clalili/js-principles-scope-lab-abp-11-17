@@ -19,4 +19,4 @@ function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'julie';
 };
 
-
+let favoriteCustomer = 'Julie';
